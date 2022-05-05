@@ -6,14 +6,14 @@ To create new post the user will add /compose to the end of the home url in ored
   
 Project Technologies:  
   
-MongoDB
-Mongoose
-Lodash
-EJS
-Express
-Body-Parser
-Node
-Heroku
+MongoDB  
+Mongoose  
+Lodash  
+EJS  
+Express  
+Body-Parser  
+Node  
+Heroku  
 
 Skills Implemented:
 

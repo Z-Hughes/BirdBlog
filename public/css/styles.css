@@ -105,15 +105,12 @@ h1 {
     margin: auto;
 }
 
+.form-label {
+    color: #108069!important;
+}
 
 
-body#post_page #about {
-    display: none;
-}
-   
-body#post_page #contact {
-    display: none;
-}
+/* Media Queries for mobile */
 
 @media (max-width: 500px) {
     .navbar p{
